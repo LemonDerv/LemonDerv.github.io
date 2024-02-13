@@ -102,7 +102,7 @@ document.addEventListener("DOMContentLoaded", function () {
       const wedate = document.getElementById("wedate");
       const btns = document.getElementById("btns");
       btns.style.display = "none";
-      wedate.innerText = "We are dating now (not optional).\nI love my little lady.";
+      wedate.innerText = "We are dating now (not optional).\nI love you my little lady.";
     } else {
       alert("I love you so much, my little girl.\nI am really glad you chose to be my Valentine.\n😍😍☕☕💓💓🥰🥰");
     }
